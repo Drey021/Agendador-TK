@@ -1,8 +1,8 @@
-# / Gerenciamento de Cardápio de Pizzaria Online \
+# / Sistema de Agenda (em desenvolvimento)\
 
 ###### Este foi um trabalho realizado em sala durante a disciplina de Eletiva Linguagem de Programação.
 
-O SISTEMA foi criado para funcionar como uma página inicial para clientes e um gerenciador de cardápio online para uma pizzaria. O SISTEMA realiza o CRUD de usuários, sabores e tamanhos de pizza, completamente online. 
+O SISTEMA foi criado para funcionar como uma página inicial para uso proprio. O SISTEMA realiza o CRUD de Contatos, Tarefas e Eventos de uma agenda, completamente online. 
 
 | Tecnologia utilizada | Motivo de utilização |
 | --- | --- |
@@ -24,10 +24,12 @@ Para acessar o site, é essencial que sejam seguidos os passos abaixo:
 
 | Campo     | Informações ja presentes |
 | ---      | ---       |
-|Usuário:| andrey|
-|Senha:| $2y$10$o0.gPLSfWp5C5JOcrCim4eLcUXuHlKtdZvN8hN0TRXFALb2fQIlfi|
-|E-mail:| drey.soares@gmail.com|
+|Usuário:| bruno|
+|Senha:| 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4|
+|nomeUser:| Bruno Santos|
 
-5. Quando entrar na página, clique em "Administração" no canto superior direito, preencha o campo usuário com "andrey" e o campo senha com "1234".
+5. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: bruno e a SENHA é: 1234
 
-6. Pronto ja estara com seu sistema pronto para uso ;) (Lembrece de alterar o usuario e a senha)
+6. Pronto ja estara com seu sistema pronto para uso ;) 
+
+## Desenvolvido por Andrey Santana Soares
