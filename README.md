@@ -2,7 +2,7 @@
 
 ###### Este foi um trabalho realizado em sala durante a disciplina de Eletiva Linguagem de Programação.
 
-O SISTEMA foi criado para funcionar como uma página inicial para uso proprio. O SISTEMA realiza o CRUD de Contatos, Tarefas e Eventos de uma agenda, completamente online. 
+O SISTEMA foi criado para funcionar como uma página inicial para uso proprio. O SISTEMA realiza o CRUD de Contatos, Tarefas e Eventos de uma agenda, completamente online, para você poder se organizar melhor.
 
 | Tecnologia utilizada | Motivo de utilização |
 | --- | --- |
