@@ -17,8 +17,8 @@ O SISTEMA foi criado para funcionar como uma página inicial para uso proprio. O
 
 Para acessar o site, é essencial que sejam seguidos os passos abaixo: 
 
-1. Acesse o localhost/phpmyadmin
-2. Importe o arquivo de banco de dados (presente na pasta bancodedados)
+1. Acesse o localhost/phpmyadmin.
+2. Importe o arquivo de banco de dados (presente na pasta bancodedados).
 3. Você notara que ja existe um login presente no sistema. (sera atravez dele que você realzara eu primeiro acesso)
 4. La tera as seguintes informações:
 
@@ -28,8 +28,11 @@ Para acessar o site, é essencial que sejam seguidos os passos abaixo:
 |Senha:| 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4|
 |nomeUser:| Bruno Santos|
 
-5. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: bruno e a SENHA é: 1234
+5. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: bruno e a SENHA é: 1234.
 
 6. Pronto ja estara com seu sistema pronto para uso ;) 
 
 ## Desenvolvido por Andrey Santana Soares
+
+## Em desenvolvimento
+1. Sera implementado ainda a parte de cadastro e alteração de usuario.
