@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(20, 147, 220));
+    
+    color: white;
+}
+
+.tabela{
+    margin-top:10px ;
+}
+
