@@ -34,6 +34,7 @@ Para acessar o site, é essencial que sejam seguidos os passos abaixo:
 
 ## Desenvolvido por:
 <h4> Andrey Santana Soares </h4>
+<h4> Lincoln Gabriel Barros </h4>
 
 ## Em desenvolvimento
 1. Sera implementado ainda a parte de cadastro e alteração de usuario.
