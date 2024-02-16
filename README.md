@@ -24,17 +24,16 @@ Para acessar o site, é essencial que sejam seguidos os passos abaixo:
 
 | Campo     | Informações ja presentes |
 | ---      | ---       |
-|Usuário:| bruno|
+|Usuário:| andrey|
 |Senha:| 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4|
-|nomeUser:| Bruno Santos|
+|nomeUser:| andrey|
 
-5. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: bruno e a SENHA é: 1234.
+5. Quando entrar na página principal, você ja sera direcionado automaticamente para o login. Onde o nome de LOGIN é: andrey e a SENHA é: 1234.
 
 6. Pronto ja estara com seu sistema pronto para uso ;) 
 
 ## Desenvolvido por:
 <h4> Andrey Santana Soares </h4>
-<h4> Lincoln Gabriel Barros </h4>
 
 ## Em desenvolvimento
 1. Sera implementado ainda a parte de cadastro e alteração de usuario.
