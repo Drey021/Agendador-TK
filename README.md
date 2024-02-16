@@ -1,4 +1,4 @@
-# / Sistema de Agenda (em desenvolvimento)\
+# / Sistema de Agenda \
 
 ###### Este foi um trabalho realizado em sala durante a disciplina de Eletiva Linguagem de Programação.
 
